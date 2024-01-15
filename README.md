@@ -7,5 +7,5 @@ style='font-size:14.0pt;line-height:115%'>Introduction</span></b></p>
 <p style="text-align: justify; margin-right: 0.2in;">The following infographic depicts an exemplary workflow and order of steps of quantifying an image with this tool:</p>
 
 <p align="center">
-    <img width="33%" src="https://github.com/Morgenss/MQT/assets/86916321/4365a3a7-a718-4496-8d62-5edde27b2a07">
+    <img src="https://github.com/Morgenss/MQT/assets/86916321/4365a3a7-a718-4496-8d62-5edde27b2a07">
 </p>
