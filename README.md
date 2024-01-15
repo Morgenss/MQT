@@ -1,4 +1,9 @@
 # MQT
+
+<p align="center">
+    <img src="https://github.com/Morgenss/MQT/assets/86916321/56b3a15e-ca2a-4700-9578-e42bf85b9d82">
+</p>
+
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
 style='font-size:14.0pt;line-height:115%'>Introduction</span></b></p>
 <p style="text-align: justify; margin-right: 0.2in;">This tool is designed to quantify properties of particle microstructures. It combines <strong>automatic detection algorithms</strong> with <strong>convenient </strong><strong>ways of manual editing</strong> to provide fast and accurate image characterizations.</p>
