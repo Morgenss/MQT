@@ -7,3 +7,7 @@ style='font-size:14.0pt;line-height:115%'>Introduction</span></b></p>
 <p style="text-align: justify; margin-right: 0.2in;">The following infographic depicts an exemplary workflow and order of steps of quantifying an image with this tool:</p>
 
 ![IntroFlowChart](https://github.com/Morgenss/MQT/assets/86916321/437e103f-c7bb-42d6-9c9f-848ebeda197e)
+
+![IntroDocWhite](https://github.com/Morgenss/MQT/assets/86916321/4365a3a7-a718-4496-8d62-5edde27b2a07)
+
+
