@@ -18,9 +18,9 @@ style='font-size:16.0pt;line-height:115%'>Introduction</span></b></p>
 <p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
 style='font-size:16.0pt;line-height:115%'>Installation Instructions</span></b></p>
 
-<p style="text-align: justify; margin-right: 0.2in;">There are two different installation files in the folder:
-- <strong> MicrostructureQuantificationTool.mlappinstall </strong> to install the tool into MATLAB to be available under the apps tab. Requires an active MATLAB lisence and the image processing toolbox
-- <strong> MQTInstaller_web: </strong> is the standalone version and can be used without an active MATLAB license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
+<p style="text-align: justify; margin-right: 0.2in;">There are two different installation files in the folder: </p>
+<p style="text-align: justify; margin-right: 0.2in;">- <strong> MicrostructureQuantificationTool.mlappinstall </strong> to install the tool into MATLAB to be available under the apps tab. Requires an active MATLAB lisence and the image processing toolbox</p>
+<p style="text-align: justify; margin-right: 0.2in;">- <strong> MQTInstaller_web: </strong> is the standalone version and can be used without an active MATLAB license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
 </p>
 
 
