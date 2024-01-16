@@ -13,14 +13,16 @@ The following infographic depicts an exemplary workflow and quantifyable propert
     <img src="https://github.com/Morgenss/MQT/assets/86916321/4365a3a7-a718-4496-8d62-5edde27b2a07">
 </p>
 
-## Installation Instructions
-
-There are two different installation methods available by using the corresponding file:
-- <strong> MicrostructureQuantificationTool.mlappinstall </strong> to integrate the tool into MATLAB, it will then be available under the apps tab in MATLAB. Requires an active MATLAB installation and license with the image processing toolbox
-- <strong> MQTInstaller_web </strong> is the standalone version and can be used without an active MATLAB installation or license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
 
 
 ## Motivation and Goal
 This tool was developed during my PhD-thesis to treat low-contrast images of phase separation microstructures in glass. The primary challenge with such images is that common thresholding or detection algorithms struggle to interpret the entire microstructure, even when the preprocessing steps and parameters of the detection algorithms are carefully chosen. Since the machine interpretation cannot grasp all the nuanced features of low-contrast microstructures, manual adjustments based on human judgment and experience are still necessary for accurate quantification.
 
 Thus, this tool aims not to introduce new or advanced algorithms compared to existing software but to combine an easy-to-understand user interface with simple and fast detection algorithms that can be conveniently supplemented with direct manual edits based on human judgment. Consequently, providing a faster way to extract information from low-contrast images. Furthermore, the tool allows the calculation of various microstructural features, and the results can be easily exported as images or to the clipboard for use in Excel or similar software.
+
+
+## Installation Instructions
+
+There are two different installation methods available by using the corresponding file:
+- <strong> MicrostructureQuantificationTool.mlappinstall </strong> to integrate the tool into MATLAB, it will then be available under the apps tab in MATLAB. Requires an active MATLAB installation and license with the image processing toolbox
+- <strong> MQTInstaller_web </strong> is the standalone version and can be used without an active MATLAB installation or license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
