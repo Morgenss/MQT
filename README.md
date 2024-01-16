@@ -1,4 +1,4 @@
-# MQT
+# MicrostructureQuantificationTool - MQT
 
 <p align="center">
     <img width= "60%"; src="https://github.com/Morgenss/MQT/assets/86916321/56b3a15e-ca2a-4700-9578-e42bf85b9d82">
