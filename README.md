@@ -1,7 +1,7 @@
 # Microstructure Quantification Tool - MQT
 
 <p align="center">
-    <img width= "60%"; src="https://github.com/Morgenss/MQT/assets/86916321/56b3a15e-ca2a-4700-9578-e42bf85b9d82">
+    <img width= "60%"; src="https://github.com/Morgenss/MQTImages/blob/main/AppLandingPage.png">
 </p>
 
 This tool is designed to quantify properties of particle in matrix microstructures. It combines <strong>automatic detection algorithms</strong> with <strong>convenient </strong><strong>ways of manual editing</strong> to provide fast and accurate image characterizations. 
@@ -10,7 +10,7 @@ Each button, slider and field visible in the app can be hovered over with the mo
 The following infographic depicts an exemplary workflow and quantifyable properties of an image with this tool:
 
 <p align="center">
-    <img src="https://github.com/Morgenss/MQT/assets/86916321/4365a3a7-a718-4496-8d62-5edde27b2a07">
+    <img src="https://github.com/Morgenss/MQTImages/blob/main/IntroDocWhite.png">
 </p>
 
 
