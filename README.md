@@ -28,6 +28,5 @@ There are two different installation methods available by using the correspondin
 - <strong> MQTInstaller_web </strong> is the standalone version and can be used without an active MATLAB installation or license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
 
 A third method to access the tool is via MATLAB online by clicking the following badge :
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Morgenss/MQT&file=README.md)
-
-To use the tool in the online version of MATLAB, load the MQT repository and double-click the <strong> MicrostructureQuantificationTool.mlappinstall </strong> file.
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Morgenss/MQT&file=README.md) <br/>
+To use the tool in the online version of MATLAB, load the MQT repository and double-click the <strong> MicrostructureQuantificationTool.mlappinstall </strong> file. Afterwards, the tool is available under the "apps" tab in MATLAB online.
