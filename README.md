@@ -23,6 +23,11 @@ Thus, this tool aims not to introduce new or advanced algorithms compared to exi
 
 ## Installation Instructions
 
-There are two different installation methods available by using the corresponding file:
+There are two different installation methods available by using the corresponding installtion files:
 - <strong> MicrostructureQuantificationTool.mlappinstall </strong> to integrate the tool into MATLAB, it will then be available under the apps tab in MATLAB. Requires an active MATLAB installation and license with the image processing toolbox
 - <strong> MQTInstaller_web </strong> is the standalone version and can be used without an active MATLAB installation or license. Its an executable file that will download roughly 2GB of libraries to install the tool. Afterwards, it can be used as a standalone application.
+
+A third method to access the app is via MATLAB online by clicking the following badge :
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Morgenss/MQT&file=https://github.com/Morgenss/MQT/blob/main/README.md)
+
+To use the app in the online version of MATLAB, load the repository and double-click the <strong> MicrostructureQuantificationTool.mlappinstall </strong> file.
